@@ -1,0 +1,2 @@
+# Vulnerability Analysis using AES and RSA on Intel and AMD Systems using MASTIK
+ This project explores the vulnerability of cryptographic algorithms AES and RSA to micro-architectural side-channel attacks using the MASTIK toolkit. By employing the Prime+Probe technique, the project analyzes cache access patterns and memory leakage on Intel and AMD systems, highlighting potential security risks in cryptographic implementations
